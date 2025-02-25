@@ -1,19 +1,31 @@
 # 👋 Hello, I'm Zakariya!  
-### 🚀 Fullstack Developer | Web & Mobile Enthusiast | Passionate about Innovation 
+## 🚀 Fullstack Developer | Web & Mobile Enthusiast | Passionate about Innovation 
 
-💡 **About Me**  
+### 💡About Me  
 - 🎓 Computer Science Master's Student  
 - 💼 Experience in Web & Mobile Development  
 - 🔍 Looking for an apprenticeship in software development 
 
-📫 **Let's Connect**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=github&logoColor=white)](https://your-portfolio.com)  
+### 📫 Let's Connect
+<p>
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="vertical-align: middle;"/>
+  </a>
+  &nbsp;
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align: middle;"/>
+  </a>
+  &nbsp;
+  <a href="https://your-portfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=github&logoColor=white" style="vertical-align: middle;"/>
+  </a>
+</p>
 
-## ⚡ Tech Stack  
+---
 
-### 🔹 **Programming Languages**  
+### ⚡ Tech Stack  
+
+🔹 **Programming Languages**  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/>
@@ -28,7 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/>
 </p>
 
-### 🔹 **Databases**  
+🔹 **Databases**  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
@@ -36,7 +48,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
 </p>
 
-### 🔹 **Frameworks & Libraries**  
+🔹 **Frameworks & Libraries**  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
