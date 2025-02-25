@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Zakariya!  
-## 🚀 Fullstack Developer | Web & Mobile Enthusiast | Passionate about Innovation 
+## 🚀 Fullstack Developer | Web, Mobile & Software
 
 ### 💡About Me  
 - 🎓 Computer Science Master's Student  
