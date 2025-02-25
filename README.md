@@ -14,7 +14,4 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zsaoula&show_icons=true&theme=radical)
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=zsaoula&theme=github-dark)
-
 
