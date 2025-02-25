@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hello, I'm Zakariya!  
+### 🚀 Fullstack Developer | Java & Angular | Passionné de Web & Mobile  
 
-<!--
-**zsaoula/zsaoula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 **À propos de moi**  
+- 🎓 Étudiant en M1 Informatique  
+- 💼 Expérience en Angular, Java Spring Boot & PostgreSQL  
+- 🔭 Actuellement en recherche d'alternance  
 
-Here are some ideas to get you started:
+📫 **Me contacter**  
+[LinkedIn](https://linkedin.com/in/zakariya-saoula) | [Email](mailto:zakariya.saoula@gmail.com) | [Portfolio](https://tonportfolio.com)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ **Stack technique**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zsaoula&show_icons=true&theme=radical)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=zsaoula&theme=github-dark)
+
+
