@@ -1,10 +1,10 @@
 # 👋 Hello, I'm Zakariya!  
-## 🚀 Fullstack Developer | Web, Mobile & Software
+## 🧑🏾‍💻 Fullstack Developer
 
 ### 💡About Me  
-- 🎓 Computer Science Master's Student  
-- 💼 Experience in Web & Mobile Development  
-- 🔍 Looking for an apprenticeship in software development 
+- Computer Science Master's Student  
+-  Experience in Web & Mobile Development  
+- Looking for an apprenticeship in software development 
 
 ### 📫 Let's Connect
 <a href = "mailto:zakariya.saoula@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
